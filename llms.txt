@@ -1,0 +1,33 @@
+# Identity Breakthrough Engine (IBE)
+
+> Identity Breakthrough Engine is a methodology-led AI coaching support platform for executive and business coaches. It supports client work between coaching sessions and prepares pre-session briefs for the human coach.
+
+## Product
+
+IBE keeps clients engaged between coaching calls with touchpoints based on the coach's own framework, questions, and concepts. The platform describes four agents: Mirror, Pattern, Challenge, and Integration. The Integration Agent prepares a concise brief for the coach before the next call.
+
+The human coach remains accountable for the coaching relationship and client work. IBE is positioned as support between sessions, not a replacement for the coach.
+
+## Founder's Circle
+
+The public page lists a Founder's Circle beta subscription at $97 per month. The application opens a conversation about fit, not a checkout.
+
+Apply: https://go.successblueprintconsulting.com/widget/form/WofX9vsyOO9IDukEsyMw
+
+## Company
+
+Identity Breakthrough Systems builds Identity Breakthrough Engine.
+
+Founder: Shawn Michael
+Contact: ops@getidentitydriven.com
+Website: https://getidentitydriven.com/
+LinkedIn: https://www.linkedin.com/company/identity-breakthrough-systems/
+
+## Page sections
+
+- Between-session coaching support
+- Business case for between-session continuity
+- The four IBE agents
+- Coach methodology configuration
+- Founder's Circle beta
+- FAQ, including how IBE differs from a general-purpose chatbot and the human coach's role
